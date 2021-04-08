@@ -16,6 +16,7 @@ export default class ProductList extends Component {
     }
     render() {
         return (
+            123
             <div className="row">
                 {this.renderProductItem()}
             </div>
